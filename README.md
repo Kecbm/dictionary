@@ -8,7 +8,6 @@
 | purse | bolsa |
 | bring | trazer |
 | sure | clara |
-| afraid | com medo |
 
 ## 17/03/2025
 
