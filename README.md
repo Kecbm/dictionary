@@ -1,5 +1,15 @@
 # Dictionary
 
+## 25/03/2025
+
+| Word | Translation |
+|------|-------------|
+| glad | alegre |
+| purse | bolsa |
+| bring | trazer |
+| sure | clara |
+| afraid | com medo |
+
 ## 17/03/2025
 
 | Word | Translation |
